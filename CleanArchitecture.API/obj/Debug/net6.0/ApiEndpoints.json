@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CleanArchitecture.API.Controllers.MoviesController",
+    "Method": "FetchMoviesData",
+    "RelativePath": "api/Movies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net6.0\CleanArchitecure.Domain.deps.json
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net6.0\CleanArchitecure.Domain.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net6.0\CleanArchitecure.Domain.pdb
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net6.0\CleanArchitecure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net6.0\CleanArchitecure.Domain.AssemblyInfoInputs.cache
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net6.0\CleanArchitecure.Domain.AssemblyInfo.cs
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net6.0\CleanArchitecure.Domain.csproj.CoreCompileInputs.cache
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net6.0\CleanArchitecure.Domain.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net6.0\refint\CleanArchitecure.Domain.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net6.0\CleanArchitecure.Domain.pdb
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net6.0\ref\CleanArchitecure.Domain.dll

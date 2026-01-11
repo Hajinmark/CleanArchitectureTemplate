@@ -1,0 +1,15 @@
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecure.Domain.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecure.Domain.pdb
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArc.03AFA812.Up2Date
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\refint\CleanArchitecture.Application.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll
