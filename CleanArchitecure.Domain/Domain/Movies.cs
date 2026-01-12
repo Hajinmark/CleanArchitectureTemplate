@@ -9,7 +9,7 @@ namespace CleanArchitecure.Domain.Domain
     public class Movies
     {
         public int Id { get; set; }
-        public string Name { get; set; } = string.Empty;
-        public decimal Cost { get; set; }
+        public string? Name { get; set; }
+        public decimal? Cost { get; set; }
     }
 }

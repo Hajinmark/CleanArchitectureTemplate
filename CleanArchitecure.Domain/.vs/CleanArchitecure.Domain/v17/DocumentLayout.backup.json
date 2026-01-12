@@ -6,26 +6,22 @@
       "AbsoluteMoniker": "D:0:0:{FB332456-B096-43D1-A22B-5D8658E6F146}|..\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.infrastructure\\persistence\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB332456-B096-43D1-A22B-5D8658E6F146}|..\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.infrastructure\\persistence\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC11F296-1655-413F-8612-7A5D035DE7C4}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.application\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6DA2ED-A924-4F33-99F7-14BBD3D2F9F9}|..\\CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC11F296-1655-413F-8612-7A5D035DE7C4}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC11F296-1655-413F-8612-7A5D035DE7C4}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.application\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6DA2ED-A924-4F33-99F7-14BBD3D2F9F9}|..\\CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC11F296-1655-413F-8612-7A5D035DE7C4}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.application\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A6DA2ED-A924-4F33-99F7-14BBD3D2F9F9}|..\\CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73F1014B-E31B-4537-AF20-D9DC47CE7F0B}|CleanArchitecure.Domain.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecure.domain\\domain\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F1014B-E31B-4537-AF20-D9DC47CE7F0B}|CleanArchitecure.Domain.csproj|solutionrelative:domain\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A6DA2ED-A924-4F33-99F7-14BBD3D2F9F9}|..\\CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC11F296-1655-413F-8612-7A5D035DE7C4}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\markg\\desktop\\c#\\cleanarchitecture\\cleanarchitecture.application\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,97 +31,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Persistence\\Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Infrastructure\\Persistence\\Database\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Persistence\\Database\\AppDbContext.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Infrastructure\\Persistence\\Database\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:29:28.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Movies.cs",
-              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecure.Domain\\Domain\\Movies.cs",
-              "RelativeDocumentMoniker": "Domain\\Movies.cs",
-              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecure.Domain\\Domain\\Movies.cs",
-              "RelativeToolTip": "Domain\\Movies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:28:28.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\CleanArchitecture.API\\Program.cs",
               "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.API\\Program.cs",
               "RelativeToolTip": "..\\CleanArchitecture.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:22:49.469Z",
+              "WhenOpened": "2026-01-12T07:31:53.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Persistence\\Repository\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Infrastructure\\Persistence\\Repository\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Persistence\\Repository\\MovieRepository.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Infrastructure\\Persistence\\Repository\\MovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.API\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\CleanArchitecture.API\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.API\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "..\\CleanArchitecture.API\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:19:48.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Services\\MovieService.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Services\\MovieService.cs",
-              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Services\\MovieService.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Application\\Services\\MovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:19:37.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IMovieService.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Interfaces\\IMovieService.cs",
-              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IMovieService.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Application\\Interfaces\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:19:27.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Interfaces\\IMovieRepository.cs",
-              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IMovieRepository.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Application\\Interfaces\\IMovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:19:26.562Z",
+              "WhenOpened": "2026-01-12T07:02:07.82Z",
               "EditorCaption": ""
             },
             {
@@ -136,9 +67,61 @@
               "RelativeDocumentMoniker": "..\\CleanArchitecture.API\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.API\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "..\\CleanArchitecture.API\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:19:15.46Z",
+              "WhenOpened": "2026-01-12T06:00:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "..\\CleanArchitecture.Application\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:01:12.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "..\\CleanArchitecture.Application\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:01:07.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Services\\MovieService.cs",
+              "RelativeToolTip": "..\\CleanArchitecture.Application\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:01:19.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Persistence\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "..\\CleanArchitecture.Infrastructure\\Persistence\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\markg\\Desktop\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Persistence\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "..\\CleanArchitecture.Infrastructure\\Persistence\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:01:40.159Z",
               "EditorCaption": ""
             }
           ]

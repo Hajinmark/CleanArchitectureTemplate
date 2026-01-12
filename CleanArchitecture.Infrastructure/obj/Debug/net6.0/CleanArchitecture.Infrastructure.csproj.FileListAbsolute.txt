@@ -17,3 +17,4 @@ C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Infrastructure\obj
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.sourcelink.json

@@ -64,7 +64,6 @@ C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.AssemblyInfoInputs.cache
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.AssemblyInfo.cs
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.csproj.CoreCompileInputs.cache
-C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\rjimswa.dswa.cache.json
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
@@ -81,3 +80,9 @@ C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.pdb
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.genruntimeconfig.cache
 C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\ref\CleanArchitecture.API.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.sourcelink.json
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\markg\Desktop\C#\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.MvcApplicationPartsAssemblyInfo.cs

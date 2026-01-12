@@ -1,8 +1,34 @@
 [
   {
     "ContainingType": "CleanArchitecture.API.Controllers.MoviesController",
+    "Method": "AddMovie",
+    "RelativePath": "api/Movies/AddMovie",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "CleanArchitecure.Domain.DTO.MovieDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.API.Controllers.MoviesController",
+    "Method": "AllMovies",
+    "RelativePath": "api/Movies/AllMovies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.API.Controllers.MoviesController",
     "Method": "FetchMoviesData",
-    "RelativePath": "api/Movies",
+    "RelativePath": "api/Movies/FetchMoviesData",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

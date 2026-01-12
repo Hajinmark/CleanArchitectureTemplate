@@ -1,3 +1,4 @@
+using CleanArchitecture.API.Mappings;
 using CleanArchitecture.Application.Interfaces;
 using CleanArchitecture.Application.Services;
 using CleanArchitecture.Infrastructure.Persistence.Database;
@@ -14,8 +15,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<AppDbContext>(options =>
+builder.Services.AddDbContext<CorpsInventorySystemContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
 
 builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
